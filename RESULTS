@@ -1,0 +1,14 @@
+K = 2 (100.0000% energy)
+Training 10000 epochs...
+Epoch 1000 done | Loss: 1.532990e-06
+Epoch 2000 done | Loss: 2.839607e-06
+Epoch 3000 done | Loss: 1.144895e-06
+Epoch 4000 done | Loss: 1.018279e-06
+Epoch 5000 done | Loss: 2.823271e-06
+Epoch 6000 done | Loss: 1.013617e-06
+Epoch 7000 done | Loss: 2.951028e-06
+Epoch 8000 done | Loss: 4.923670e-07
+Epoch 9000 done | Loss: 3.023084e-07
+Epoch 10000 done | Loss: 3.341684e-07
+
+FINAL RMSE = 0.00198899
